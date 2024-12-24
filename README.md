@@ -10,10 +10,10 @@ How to Use
 Open the KiCad project files to view or modify the design.
 Use the Gerber files to manufacture the PCB.
 Assemble the circuit by soldering the required components.
-Applications
-LED blinking circuits
-Square wave generators
-Simple tone generators
-Learning about the IC-555 timer
+Applications-
+LED blinking circuits,
+Square wave generators,
+Simple tone generators,
+Learning about the IC-555 timer.
 Feel free to use or modify this design for your projects! 😊
 
