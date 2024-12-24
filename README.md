@@ -1,5 +1,6 @@
 # IC-555
-#PCB design of IC-555 timer working in Astable Mode.
+PCB design of IC-555 timer working in Astable Mode.
+
 This repository contains the design files for a PCB based on the IC-555 timer in astable mode. The design was created using KiCad, and all the necessary files are included here.
 
 What’s Included
